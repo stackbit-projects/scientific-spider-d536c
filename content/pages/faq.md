@@ -72,7 +72,7 @@ sections:
           - pb-36
           - pl-4
           - pr-4
-        justifyContent: left
+        justifyContent: rigth
         borderRadius: none
         borderWidth: 0
         borderStyle: none
