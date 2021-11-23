@@ -82,7 +82,7 @@ sections:
       subtitle:
         textAlign: left
       actions:
-        justifyContent: center
+        justifyContent: left
     type: FeaturedPostsSection
   - elementId: ''
     colors: colors-f
