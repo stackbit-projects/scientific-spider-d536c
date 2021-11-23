@@ -80,7 +80,7 @@ sections:
       title:
         textAlign: left
       subtitle:
-        textAlign: center
+        textAlign: left
       actions:
         justifyContent: center
     type: FeaturedPostsSection
