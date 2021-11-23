@@ -912,7 +912,7 @@ sections:
               - mb-0
             flexDirection: row-reverse
           quote:
-            textAlign: left
+            textAlign: center
           name:
             fontWeight: 400
             fontStyle: normal
