@@ -9,11 +9,6 @@ sections:
       One platform, one community, getting to the bottom line of everything
       employment.  Figure out your benefits, practice for interviews, get
       mentored, help peers, get helped in return.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
         label: Get Started
