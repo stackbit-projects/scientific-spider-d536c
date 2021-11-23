@@ -904,7 +904,7 @@ sections:
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
-          url: /images/dianne-ameter.jpg
+          url: /images/carla.jpg
           altText: Person photo
         elementId: ''
         styles:
