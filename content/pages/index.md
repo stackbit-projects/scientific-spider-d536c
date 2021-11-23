@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-h
-    title: 'Love where you work, because work loves you'
+    title: Love where you work
     subtitle: >-
       One platform, one community, getting to the bottom line of everything
       employment.  Figure out your benefits, practice for interviews, get
