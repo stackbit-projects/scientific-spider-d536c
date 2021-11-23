@@ -122,7 +122,7 @@ sections:
       actions:
         justifyContent: center
     type: LatestPostsSection
-  - colors: colors-h
+  - colors: colors-f
     elementId: ''
     title: Gallery
     subtitle: This is the subtitle
