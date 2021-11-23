@@ -408,7 +408,7 @@ sections:
     type: TextSection
   - elementId: ''
     variant: variant-b
-    colors: colors-a
+    colors: colors-h
     posts:
       - content/pages/blog/post-four.md
       - content/pages/blog/post-one.md
