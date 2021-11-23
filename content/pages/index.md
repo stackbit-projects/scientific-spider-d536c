@@ -407,6 +407,54 @@ sections:
         textAlign: left
     type: TextSection
   - elementId: ''
+    colors: colors-a
+    title: This Is A Big Hero Headline
+    subtitle: The section subtitle
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions:
+      - type: Button
+        label: Get Started
+        url: /
+        style: primary
+        elementId: hero-main-button
+      - type: Button
+        label: Learn More
+        url: /
+        style: secondary
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/hero.png'
+      altText: Hero section image
+    backgroundImage: {}
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+  - elementId: ''
     variant: variant-a
     colors: colors-f
     title: Featured
