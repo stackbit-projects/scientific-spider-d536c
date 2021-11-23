@@ -895,7 +895,6 @@ sections:
     type: TestimonialsSection
   - elementId: ''
     colors: colors-h
-    subtitle: What our customers say about us
     testimonials:
       - quote: >
           “Very professional team. I loved working with the people at
