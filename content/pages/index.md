@@ -38,7 +38,7 @@ sections:
           - pt-12
           - pb-12
           - pr-8
-          - pl-4
+          - pl-8
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
