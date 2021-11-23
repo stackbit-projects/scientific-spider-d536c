@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     variant: variant-b
-    colors: colors-c
+    colors: colors-f
     title: Latest news
     subtitle: Latest blog posts section example
     actions:
