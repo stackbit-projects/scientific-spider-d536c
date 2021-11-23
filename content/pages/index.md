@@ -920,7 +920,7 @@ sections:
           title:
             fontWeight: 400
             fontStyle: normal
-            textAlign: left
+            textAlign: center
       - quote: >-
           “It’s great to see someone taking action while still maintaining a
           sustainable fish supply to home cooks.”
