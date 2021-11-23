@@ -904,8 +904,7 @@ sections:
         name: Johnna Doe
         title: Product Marketing Manager at Startup.io
         image:
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-person.png
+          url: /images/dianne-ameter.jpg
           altText: Person photo
         elementId: ''
         styles:
