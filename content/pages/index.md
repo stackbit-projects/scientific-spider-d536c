@@ -930,8 +930,7 @@ sections:
         name: Johnna Doe
         title: Creative at Startup.io
         image:
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-person.png
+          url: /images/hugh-saturation.jpg
           altText: Person photo
         elementId: ''
         styles:
