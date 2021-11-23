@@ -894,7 +894,7 @@ sections:
         textAlign: left
     type: TestimonialsSection
   - elementId: ''
-    colors: colors-h
+    colors: colors-f
     testimonials:
       - quote: >
           “Very professional team. I loved working with the people at
