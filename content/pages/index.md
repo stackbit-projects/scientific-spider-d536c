@@ -969,6 +969,7 @@ sections:
         textAlign: center
     type: TestimonialsSection
     title: Testimonials
+    subtitle: What our customers say about us
   - type: ContactSection
     colors: colors-f
     title: Get early access
