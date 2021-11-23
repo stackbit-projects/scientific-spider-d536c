@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     variant: variant-a
-    colors: colors-a
+    colors: colors-h
     title: Featured
     subtitle: Featured blog posts section example
     actions:
