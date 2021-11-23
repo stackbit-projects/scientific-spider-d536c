@@ -910,7 +910,7 @@ sections:
             margin:
               - mt-0
               - mb-0
-            flexDirection: row
+            flexDirection: row-reverse
           quote:
             textAlign: left
           name:
