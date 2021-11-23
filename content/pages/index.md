@@ -104,8 +104,9 @@ sections:
     colors: colors-f
     title: Love where you work
     text: >
-      Learn how top tech companies have learned working remote using our
-      product.
+      One platform, one community, getting to the bottom line of everything
+      employment.  Figure out your benefits, practice for interviews, get
+      mentored, help peers, get helped in return.
     actions:
       - type: Button
         label: Sign Up
