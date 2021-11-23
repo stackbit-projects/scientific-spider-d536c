@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-h
-    title: This Is A Big Hero Headline
+    title: 'Love where you work, because work loves you'
     subtitle: The section subtitle
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
