@@ -895,7 +895,6 @@ sections:
     type: TestimonialsSection
   - elementId: ''
     colors: colors-h
-    title: Testimonials
     subtitle: What our customers say about us
     testimonials:
       - quote: >
