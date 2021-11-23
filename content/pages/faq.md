@@ -46,7 +46,7 @@ sections:
       title:
         textAlign: left
       subtitle:
-        fontWeight: '600'
+        fontWeight: '400'
         fontStyle: normal
         textAlign: left
     type: FaqSection
