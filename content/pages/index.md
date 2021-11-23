@@ -408,7 +408,7 @@ sections:
     type: TextSection
   - elementId: ''
     variant: variant-b
-    colors: colors-a
+    colors: colors-h
     title: Featured
     subtitle: Featured blog posts section example
     actions:
