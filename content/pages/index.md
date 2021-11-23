@@ -40,7 +40,7 @@ sections:
           - pr-8
           - pl-8
         alignItems: center
-        justifyContent: flex-end
+        justifyContent: center
         flexDirection: row-reverse
         borderRadius: none
         borderWidth: 0
