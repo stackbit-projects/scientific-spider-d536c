@@ -898,9 +898,9 @@ sections:
     title: Testimonials
     subtitle: What our customers say about us
     testimonials:
-      - quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
+      - quote: >
+          “Very professional team. I loved working with the people at
+          Startup.io. ”
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
