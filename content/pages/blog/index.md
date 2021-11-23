@@ -175,7 +175,7 @@ sections:
         fontStyle: normal
         textAlign: center
     type: MediaGallerySection
-  - colors: colors-c
+  - colors: colors-f
     elementId: ''
     title: Gallery
     subtitle: This is the subtitle
