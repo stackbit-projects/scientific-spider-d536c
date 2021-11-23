@@ -902,7 +902,7 @@ sections:
           “It’s great to see someone taking action while still maintaining a
           sustainable fish supply to home cooks.”
         name: Johnna Doe
-        title: Product Marketing Manager at Acme
+        title: Product Marketing Manager at Startup.io
         image:
           url: >-
             https://assets.stackbit.com/components/images/default/default-person.png
