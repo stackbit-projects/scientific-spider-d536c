@@ -3,7 +3,7 @@ title: FAQ
 layout: PageLayout
 sections:
   - elementId: ''
-    variant: variant-a
+    variant: variant-b
     colors: colors-f
     title: About us
     subtitle: Featured people section example
