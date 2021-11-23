@@ -927,7 +927,7 @@ sections:
       - quote: >-
           “It’s great to see someone taking action while still maintaining a
           sustainable fish supply to home cooks.”
-        name: Johnna Doe
+        name: Hugh Saturation
         title: Creative at Startup.io
         image:
           url: /images/hugh-saturation.jpg
