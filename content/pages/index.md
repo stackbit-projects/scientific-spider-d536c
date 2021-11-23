@@ -23,7 +23,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/hero.png'
+      url: /images/hero-3.jpg
       altText: Hero section image
     backgroundImage: {}
     styles:
