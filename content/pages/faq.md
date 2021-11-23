@@ -50,7 +50,7 @@ sections:
         fontStyle: normal
         textAlign: center
     type: FaqSection
-    subtitle: We have answers
+    subtitle: We are here to help
   - elementId: ''
     title: Recent posts
     variant: variant-b
