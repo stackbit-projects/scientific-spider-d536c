@@ -25,10 +25,6 @@ sections:
         style: link
         elementId: ''
         type: Link
-    media:
-      type: ImageBlock
-      altText: Image alt text
-      caption: Image caption
     styles:
       self:
         height: auto
