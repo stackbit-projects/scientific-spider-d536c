@@ -927,7 +927,7 @@ sections:
           “It’s great to see someone taking action while still maintaining a
           sustainable fish supply to home cooks.”
         name: Hugh Saturation
-        title: Creative at Startup.io
+        title: Creative at Acme
         image:
           url: /images/hugh-saturation.jpg
           altText: Person photo
