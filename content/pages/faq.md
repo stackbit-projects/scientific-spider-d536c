@@ -78,11 +78,11 @@ sections:
         borderStyle: none
         borderColor: border-dark
       title:
-        textAlign: left
+        textAlign: rigth
       subtitle:
-        textAlign: left
+        textAlign: rigth
       actions:
-        justifyContent: left
+        justifyContent: rigth
     type: FeaturedPostsSection
   - elementId: ''
     colors: colors-f
