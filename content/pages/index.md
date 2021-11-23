@@ -5,7 +5,10 @@ sections:
   - elementId: ''
     colors: colors-h
     title: 'Love where you work, because work loves you'
-    subtitle: The section subtitle
+    subtitle: >-
+      One platform, one community, getting to the bottom line of everything
+      employment.  Figure out your benefits, practice for interviews, get
+      mentored, help peers, get helped in return.
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
