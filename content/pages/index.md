@@ -941,7 +941,7 @@ sections:
           name:
             fontWeight: 400
             fontStyle: normal
-            textAlign: left
+            textAlign: center
           title:
             fontWeight: 400
             fontStyle: normal
