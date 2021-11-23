@@ -113,7 +113,7 @@ sections:
         url: /
         style: secondary
       - type: Button
-        label: Watch Video
+        label: Learn more
         url: /
         style: link
         showIcon: true
