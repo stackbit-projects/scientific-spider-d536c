@@ -102,7 +102,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-f
-    title: Where did everyone go?
+    title: Love where you work
     text: >
       Learn how top tech companies have learned working remote using our
       product.
