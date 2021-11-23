@@ -38,7 +38,7 @@ sections:
           - pb-12
         alignItems: center
         justifyContent: center
-        flexDirection: col-reverse
+        flexDirection: col
       title:
         textAlign: left
       subtitle:
